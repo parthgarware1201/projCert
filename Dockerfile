@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-APP website /var/www/html
+website /var/www/html
 
 RUN rm /var/www/html/index.html
 
